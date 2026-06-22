@@ -8,11 +8,6 @@ This repository contains the official code implementation for the paper:
 
 ---
 
-## 📌 Overview
-
-While it is important to make implantable brain-machine interfaces wireless to increase patient comfort and safety, the trend of increased channel count in recent neural probes poses a challenge due to the concomitant increase in the data rate. Extracting information from raw data at the source by using edge computing is a promising solution to this problem, with integrated intention decoders providing the best compression ratio. Recent benchmarking efforts have shown recurrent neural networks to be the best solution. Spiking Neural Networks (SNN) emerge as a promising solution for resource efficient neural decoding while Long Short Term Memory (LSTM) networks achieve the best accuracy. In this work, we show that combining traditional signal processing techniques, namely signal filtering, with SNNs improve their decoding performance significantly for regression tasks, closing the gap with LSTMs, at little added cost.
----
-
 ## 📂 Repository Structure
 
 ```text
