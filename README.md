@@ -20,23 +20,23 @@ This repository contains the official code implementation for the paper:
 ## 🔧 Installation & Prerequisites
 
 1. Clone the repository:
-   ``` bash
-   git clone [https://github.com/CityU-BRAINSys-Lab/Combining-SNNs-with-filtering.git](https://github.com/CityU-BRAINSys-Lab/Combining-SNNs-with-filtering.git)
-   cd Combining-SNNs-with-filtering
-   ```
+``` bash
+git clone [https://github.com/CityU-BRAINSys-Lab/Combining-SNNs-with-filtering.git](https://github.com/CityU-BRAINSys-Lab/Combining-SNNs-with-filtering.git)
+cd Combining-SNNs-with-filtering
+```
    
 2. Install core dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+```bash
+pip install -r requirements.txt
+```
 
 ## 🚀 Usage:
 1. Standard Offline Decoding Evaluation
-  To run the standard SNN training or evaluation workflow using the offline dataset pipelines:
-  ```bash
-  python main.py
-  python main_streaming.py
-  ```
+To run the standard SNN training or evaluation workflow using the offline dataset pipelines:
+```bash
+python main.py
+python main_streaming.py
+```
 
 ## ✍️ Citation
 If you use this code, the benchmarks, or the filtering-SNN methodologies in your academic research, please cite our paper:
